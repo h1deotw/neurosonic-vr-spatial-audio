@@ -148,6 +148,4 @@ Assets/
   XR/, XRI/, Samples/         — настройки XR и сэмплы XRI
 Packages/manifest.json
 ProjectSettings/
-EXPLAIN.md                    — шпаргалка «простыми словами» к созвону
-STEPS.md                      — дневник работы по шагам
 ```
