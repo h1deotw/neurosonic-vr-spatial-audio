@@ -2,7 +2,9 @@
 
 VR-сцена на Unity 6 + URP + OpenXR/XRI: комната 10×10 м в масштабе 1:1, шесть интерактивных предметов с физикой и **пространственным звуком** (Steam Audio), громкость удара зависит от силы столкновения.
 
-**Видео:** _ссылка на релиз появится здесь после публикации_ (`NeuroSonic_demo.mp4`, 1920×1080, 60 fps, 34.6 с)
+**Видео:** [NeuroSonic_demo.mp4 — релиз v1.0](https://github.com/h1deotw/neurosonic-vr-spatial-audio/releases/download/v1.0/NeuroSonic_demo.mp4) (1920×1080, 60 fps, 34.6 с, 12 МБ)
+
+**Релиз со всеми ссылками:** https://github.com/h1deotw/neurosonic-vr-spatial-audio/releases/tag/v1.0
 
 ---
 
